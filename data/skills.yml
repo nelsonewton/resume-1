@@ -2,7 +2,7 @@ name: Skills
 title: Rated
 
 source:
-  - name: [Pega BPM, case management, intelligent routing, agent management, etc.]
+  - name: [PEGA BPM, case management, intelligent routing, agent management, etc.]
     stars: 5
     
   - name: [DEVOPS, CI, CD, monitoring using Elastic stack, Graphana, etc.]

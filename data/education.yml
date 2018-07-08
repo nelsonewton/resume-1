@@ -1,8 +1,15 @@
 name: Education
 source:
-  - title: Bachelor of Engineering
-    univ: National Institute of Technology
-    place: Durgapur, WB, India
-    date: 1997 to 2001
-    type: B.E, First Class
-    description: Classical Chemical Engineering and FORTRAN lab usage for large scientific calculations with last semester elective of Biotechnology.
+  - title: Masters in Computer Applications
+    univ: Dharmsinh Desai Institute of Technology
+    place: Nadiad, Gujarat, India
+    date: 2001 to 2004
+    type: M.C.A
+    description: Masters with programming experience of Java based applications. 
+    
+  - title: Bachelors in Mathematics
+    univ: St. Xaviers College
+    place: Ahmedabad, Gujarat, India
+    date: 1998 to 2001
+    type: B. Sc
+    description: Bachelors with focus on statistical and mathematical formulaes

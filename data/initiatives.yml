@@ -1,13 +1,19 @@
 name: Certifications
 source:
-  - title: TOGAF 9
+  - title: Pega Certified Lead System Architect
     place: The Netherlands
-    date: 2010
+    date: 2015
     type: certification
-    description: View Certificate @ https://togaf9-cert.opengroup.org/printpdf/certificate/f135
-
-  #- title: Student Volunteer
-   # place: British RedCross, Glasgow, UK
-   # date: 2013
-   # type: fundraiser
-   # description: Lorem adipiscing ei eam, eros conceptam maiestatis ne sea.
+    description: Lead System Architect on Pega version 6
+ 
+  - title: Pega Certified Next Best Action Consultant
+    place: The Netherlands
+    date: 2014
+    type: certification
+    description: Pega marketing and next best action consultant on Pega version 6
+ 
+  - title: Sun Certified Programmer for Java 2 Platform
+    place: India
+    date: 2008
+    type: certification
+    description: Standard Edition 1.4

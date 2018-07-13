@@ -86,13 +86,17 @@ source:
                   Technical implementation manager working with a team of 40 members with an onshore offshore model responsible of production releases for ABN AMRO bank in Netherlands.
                   
   - prof: Programmer
-    place: Tata Consultancy Services B.V., The Netherlands
+    place: SPEC India, India
     time: January, 2006 to February, 2008
     description: >
                   Senior developer to build and maintain Java Swing based application built for Billing and order management for Pepsico in India.
-                  
-  - prof: Trainee
-    place: Hypernet Solutions, India
-    time: January, 2006 to February, 2008
-    description: >
-                  Trainee to build Web application using ASP, VBScript and IIS server in India.
+    description1: >
+                  Build and maintain ADA application to support billing process
+    description2: >
+                  Build and maintain OMS application to support order management process
+    description3: >
+                  Assist in delivery of applications from Development to Live environments
+    description4: >
+                  Attend requirement gathering sessions
+    description5: >
+                  Manage the backlog of support tickets for applications

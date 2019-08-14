@@ -1,15 +1,10 @@
 name: Education
 source:
-  - title: Masters in Computer Applications
-    univ: Dharmsinh Desai Institute of Technology
-    place: Nadiad, Gujrat, India
-    date: 2001 to 2004
-    type: M.C.A
-    description: Masters with programming experience of Java based applications. 
+  - title: Bachelors in Electronics and Communications
+    univ: CMJ University
+    place: Jorabat, Meghalaya, India
+    date: 2009 to 2012
+    type: B.Tech
+    description: Bachelors with focus on electronics and its applications.
     
-  - title: Bachelors in Mathematics
-    univ: St. Xaviers College
-    place: Ahmedabad, Gujarat, India
-    date: 1998 to 2001
-    type: B. Sc
-    description: Bachelors with focus on statistical and mathematical formulaes
+  

@@ -1,19 +1,25 @@
-name: Certifications
+name: Projects
 source:
-  - title: Pega Certified Lead System Architect
-    place: The Netherlands
-    date: 2015
-    type: certification
-    description: Lead System Architect on Pega version 6
+  - title: Magic Moments Club apps
+    place: United Kingdom
+    date: 2018
+    type: Social media app for Care Homes and families
+    description: Planning, managing, execution, publishing and maintenance
  
-  - title: Pega Certified Next Best Action Consultant
-    place: The Netherlands
-    date: 2014
-    type: certification
-    description: Pega marketing and next best action consultant on Pega version 6
+  - title: Intellecquity
+    place: Global
+    date: 2018
+    type: Student and tutor communication solution applications
+    description: Management and updation of new features including payments
  
-  - title: Sun Certified Programmer for Java 2 Platform
+  - title: Marketing Expos for Epson India Pvt ltd
     place: India
-    date: 2008
-    type: certification
-    description: Standard Edition 1.4
+    date: 2014 - 2017
+    type: Expo events for partners across PAN India
+    description: Planning, managing and execution
+    
+    - title: Recruitment events for Accenture India
+    place: India
+    date: 2012 - 2013
+    type: Events at Colleges across India
+    description: Managing and execution
